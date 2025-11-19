@@ -15,25 +15,23 @@
 
 ## Minhas Hablidades:
 
-<img src="https://skillicons.dev/icons?i=html,css,python,react,java,figma,vscode,idea,eclipse,discord,docker,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,react,java,tensorflow,gcp,docker,git,github&theme=dark" />
 
 ## Sobre mim:
 
-**Eu sou desenvolvedor, apaixonado por códigos e matemática e estou cursando Ciências da computação.**
+**Eu sou desenvolvedor, apaixonado por código, IA e matemática e estou cursando Ciências da computação.**
 
 - 🧠 **Gosto de aprender e me jogar em novas aventuras.**
-- ✍🏾**Desenvolvedor:** `Java` `Python` `Figma` `git` `React` `Docker`
-- 💼 **Em busca de meu primeiro estágio.**
+- ✍🏾**Desenvolvedor:** `Java` `Python` `Figma` `git` `React` `Docker` `Machine Learning` 
 - 💻 **Em busca de conhecer pessoas da área e trocar conhecimento**
 - **gosto de animes, carros e futebol**
 
 ## Hard Skills:
 - **Programação**
+- **Machine Learning**
 - **Matemática avançada**
-- **Domínio do figma**
 - **Conhecimento em Docker**
-- **Conhecimento do Pacote Office**
-- **Notion**
+- **Google Cloud**
 - **IntelliJ Idea, VS code, Eclipse, Pycharm**
 
 
